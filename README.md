@@ -7,7 +7,7 @@
 </h1>
 
 <div align="center">
-   //project name
+   //Fbric Fault Detectionn
 </div>
 <hr>
 
@@ -30,7 +30,8 @@
 
 ## 📝Description
 
-
+Our project aims to solve a big problem in textle industries. That is to detect faults in the primary phase of textile man
+ufacturing so as to reduce material and product loss as weel as decrease in waste generation.1
 
 ## 🔗Links
 
